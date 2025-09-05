@@ -41,5 +41,3 @@ During the audit, the following security flaws were identified and fixed:
 
 
 
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
